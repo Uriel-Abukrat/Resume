@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "Uriel-Abukrat-Resume",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
